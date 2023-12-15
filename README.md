@@ -7,8 +7,11 @@ In one corner of my life, I've tangled with titans in the free-fight arena, conq
 
 Now, picture this: I've got a black belt in Kotlin and a brown belt in Clojure, but I've been dancing the corporate cha-cha with Java. Why? Well, it pays the bills, and my bank account does love a good Java jive. Despite the corporate tango, my heart beats to the rhythm of startups and bleeding-edge tech.
 
-So, if you're looking for someone who can deliver a knockout punch in the code ring and then whip up a mean batch of startup strategy, look no further. I'm a developer with a sense of humor sharper than a Katana and a passion for turning lines of code into works of art. 🚀💻
+I'm a developer with a sense of humor sharper than a Katana and a passion for turning lines of code into works of art. 🚀💻
 
+<!--
+So, if you're looking for someone who can deliver a knockout punch in the code ring and then whip up a mean batch of startup strategy, look no further. I'm a developer with a sense of humor sharper than a Katana and a passion for turning lines of code into works of art. 🚀💻
+-->
 
 <!--
 **Vadym-Lopatka/Vadym-Lopatka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
